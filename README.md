@@ -13,7 +13,6 @@
 - JAVA
 - HTML
 - Javascript
-- PHP
 - SQL
 
 ---
@@ -53,8 +52,5 @@
 
 ## 개발 환경
 - Window10
-- Eclipse IDE
-- WebStorm
-- VSCode
-- OracleDB -> MariaDB
-- NodeJS
+- Spring Tool Suite v3.9.14
+- OracleDB
